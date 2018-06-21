@@ -14,7 +14,7 @@ We love your feature requests and product feedback, [please post them here](http
 
 ---
 
-### 📖 Issues with Begin's documentation
+### 📖 Issues with Begin documentation
 
 Did you know that [our docs site](https://docs.begin.com) is a separate, fully open source Begin app, and has its own issue tracker?
 
