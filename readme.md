@@ -1,4 +1,4 @@
-## Welcome to the Begin public issue tracker & feature requestinator!
+## Welcome to the Begin public issue tracker!
 
 ### 🐛 Filing issues with Begin
 
@@ -10,7 +10,7 @@ If you are experiencing an issue that may be specific to your account or project
 
 ### 🌈 Feature requests and enhancements to Begin
 
-We love your feature requests and product feedback, [please post them here](https://github.com/smallwins/begin-issues/issues/new?template=feature-request.md)!
+We love your feature requests and product feedback, [please post them here](https://begin.canny.io)!
 
 ---
 
