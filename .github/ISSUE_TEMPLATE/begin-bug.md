@@ -1,7 +1,8 @@
 ---
-name: Bug report
-about: Create a bug report
-
+name: Begin / bug report
+about: Create a bug report for the Begin app platform
+title: 'testing'
+labels: Begin, Bug
 ---
 
 **Expected behavior**
@@ -24,17 +25,11 @@ Detailed steps to reproduce the behavior:
 Add screenshots to help explain your problem.
 
 
-**Desktop**
- - OS: [e.g. macOS]
- - Browser: [e.g. Chrome, Firefox]
- - Version: [e.g. 22.4.201]
-
-
-**Mobile**
- - Device: [e.g. iPhone 6]
- - OS: [e.g. iOS 8.1]
- - Browser [e.g. Chrome, Safari]
- - Version [e.g. 8.14.590]
+**Device**
+- Device: [e.g. iPhone Xs]
+- OS: [e.g. macOS]
+- Browser: [e.g. Chrome, Firefox]
+- Version: [e.g. 22.4.201]
 
 
 **Additional context or notes**
