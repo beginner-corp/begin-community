@@ -1,7 +1,7 @@
 ---
-name: Begin / enhancement
-about: New feature or request for the Begin app platform (begin.com)
-labels: Begin, Enhancement
+name: Begin Learn / enhancement
+about: New feature or request for Begin Learn (learn.begin.com)
+labels: Begin Learn, Enhancement
 
 ---
 
