@@ -1,6 +1,7 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Enhancement
+about: New feature or request for the Begin app platform (begin.com)
+labels: Begin, Enhancement
 
 ---
 
@@ -12,7 +13,7 @@ A clear and concise description of what the problem is. (Example: I find it frus
 A clear and concise description of what you'd like to happen.
 
 
-**Describe alternatives you've considered**
+**Describe alternatives you've considered (if any)**
 A clear and concise description of any alternative solutions or features you've considered. These are quite helpful! (Example: If it did _____ instead of _____, users would still have problems because _____...)
 
 
