@@ -2,7 +2,6 @@
 name: Begin / enhancement
 about: New feature or request for the Begin app platform (begin.com)
 labels: Begin, Enhancement
-
 ---
 
 **Is your feature request related to a problem? Please describe.**

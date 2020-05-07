@@ -2,7 +2,6 @@
 name: Begin Learn / enhancement
 about: New feature or request for Begin Learn (learn.begin.com)
 labels: Begin Learn, Enhancement
-
 ---
 
 **Is your feature request related to a problem? Please describe.**
