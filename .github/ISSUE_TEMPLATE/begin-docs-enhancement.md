@@ -1,7 +1,7 @@
 ---
-name: Begin / enhancement
-about: New feature or request for the Begin app platform (begin.com)
-labels: Begin, Enhancement
+name: Begin Docs / enhancement
+about: New feature or request for Begin Docs (docs.begin.com)
+labels: Begin Docs, Enhancement
 ---
 
 **Is your feature request related to a problem? Please describe.**

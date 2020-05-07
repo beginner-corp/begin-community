@@ -1,8 +1,8 @@
 ---
-name: Begin / bug report
-about: Create a bug report for the Begin app platform (begin.com)
+name: Begin Learn / bug report
+about: Create a bug report for the Begin app platform (learn.begin.com)
 title: '[Don't forget steps to reproduce!]'
-labels: Begin, Bug
+labels: Begin Learn, Bug
 ---
 
 **Expected behavior**
