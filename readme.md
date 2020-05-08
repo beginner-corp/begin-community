@@ -1,6 +1,8 @@
-## Welcome to the Begin public issue tracker!
+## Welcome to the Begin community!
 
-### 🐛 Filing issues with Begin
+---
+
+### 🐛 File public Begin issues
 
 If you have an issue that you have reason to believe impacts all Begin users, and not just your project, [please report it here](https://github.com/smallwins/begin-issues/issues/new?template=bug-report.md)!
 
@@ -8,17 +10,31 @@ If you are experiencing an issue that may be specific to your account or project
 
 ---
 
-### 🌈 Feature requests and enhancements to Begin
+### 🌈 Request features and enhancements
 
-We love your feature requests and product feedback, [please post them here](https://begin.canny.io)!
+We love your feature requests and product feedback, [please post them here](https://github.com/smallwins/begin-community/issues/new?labels=Begin%2C+Enhancement&template=begin-enhancement.md)!
 
 ---
 
 ### 📖 Issues with Begin documentation
 
-Did you know that [our docs site](https://docs.begin.com) is a separate, fully open source Begin app, and has its own issue tracker?
+Help us make [our docs site](https://docs.begin.com) better! File issues here (shortcuts below), but don't forget to hit up the [Begin docs repo here](https://github.com/smallwins/docs.begin.com). PRs are always welcome!
 
-If you see something wrong, please head on over to the [Begin docs repo](https://github.com/smallwins/docs.begin.com) to file docs-related [issues and requests](https://github.com/smallwins/docs.begin.com/issues/new/choose). (PRs are welcome, by the way!)
+- [Request a new doc](https://github.com/smallwins/begin-community/issues/new?labels=Docs%2C+New+doc&template=docs-new-doc.md)
+- [Report an issue with a doc](https://github.com/smallwins/begin-community/issues/new?labels=Docs%2C+New+doc&template=docs-doc-issue.md)
+- [Request an enhancement to the Begin Docs site](https://github.com/smallwins/begin-community/issues/new?labels=Docs%2C+Enhancement&template=docs-enhancement.md)
+- [Report a bug with the Begin Docs site](https://github.com/smallwins/begin-community/issues/new?labels=Docs%2C+Bug&template=docs-bug.md&title=%28Don%27t+forget+steps+to+reproduce%21%29)
+
+---
+
+### 📖 Issues with Begin documentation
+
+Help us make [our learn site](https://learn.begin.com) as well! As with docs, file issues here (shortcuts below), and visit the [Begin Learn repo here](https://github.com/smallwins/learn.begin.com). PRs are always welcome!
+
+- [Request a new Learn doc](https://github.com/smallwins/begin-community/issues/new?labels=Learn%2C+New+doc&template=learn-new-doc.md)
+- [Report an issue with a Learn doc](https://github.com/smallwins/begin-community/issues/new?labels=Learn%2C+New+doc&template=learn-doc-issue.md)
+- [Request an enhancement to the Begin Learn site](https://github.com/smallwins/begin-community/issues/new?labels=Learn%2C+Enhancement&template=learn-enhancement.md)
+- [Report a bug with the Begin Learn site](https://github.com/smallwins/begin-community/issues/new?labels=Learn%2C+Bug&template=learn-bug.md&title=%28Don%27t+forget+steps+to+reproduce%21%29)
 
 ---
 
