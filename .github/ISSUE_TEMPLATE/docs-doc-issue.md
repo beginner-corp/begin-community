@@ -1,7 +1,7 @@
 ---
-name: Begin Docs / doc issue
+name: Docs / doc issue
 about: Report for missing, inaccurate, or out of date documentation for Begin Docs (docs.begin.com)
-labels: Begin Docs, New doc
+labels: Docs, New doc
 ---
 **Which doc?**
 Please provide the link.

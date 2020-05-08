@@ -1,7 +1,7 @@
 ---
-name: Begin Docs / enhancement
+name: Docs / enhancement
 about: New feature or request for Begin Docs (docs.begin.com)
-labels: Begin Docs, Enhancement
+labels: Docs, Enhancement
 ---
 
 **Is your feature request related to a problem? Please describe.**

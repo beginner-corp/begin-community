@@ -1,7 +1,7 @@
 ---
-name: Begin Learn / new doc
-about: Request a new doc for Begin Learn (learn.begin.com)
-labels: Begin Learn, New doc
+name: Docs / new doc
+about: Request a new doc for Begin Docs (docs.begin.com)
+labels: Docs, New doc
 ---
 
 **Describe the doc you'd like**
