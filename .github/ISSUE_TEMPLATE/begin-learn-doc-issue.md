@@ -1,7 +1,7 @@
 ---
-name: Begin Learn / doc issue
+name: Learn / doc issue
 about: Report for missing, inaccurate, or out of date documentation for Begin Learn (learn.begin.com)
-labels: Begin Learn, New doc
+labels: Learn, New doc
 ---
 **Which doc?**
 Please provide the link.

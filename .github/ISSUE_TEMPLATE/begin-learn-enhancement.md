@@ -1,7 +1,7 @@
 ---
-name: Begin Learn / enhancement
+name: Learn / enhancement
 about: New feature or request for Begin Learn (learn.begin.com)
-labels: Begin Learn, Enhancement
+labels: Learn, Enhancement
 ---
 
 **Is your feature request related to a problem? Please describe.**

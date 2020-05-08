@@ -1,7 +1,7 @@
 ---
 name: Begin / bug report
 about: Create a bug report for the Begin app platform (begin.com)
-title: '[Don't forget steps to reproduce!]'
+title: (Don't forget steps to reproduce!)
 labels: Begin, Bug
 ---
 
