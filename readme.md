@@ -4,7 +4,7 @@
 
 ### 🐛 File public Begin issues
 
-If you have an issue that you have reason to believe impacts all Begin users, and not just your project, [please report it here](https://github.com/smallwins/begin-issues/issues/new?template=bug-report.md)!
+If you have an issue that you have reason to believe impacts all Begin users, and not just your project, [please report it here](https://github.com/smallwins/begin-community/issues/new?labels=Begin%2C+Bug&template=begin-bug.md&title=%28Don%27t+forget+steps+to+reproduce%21%29)!
 
 If you are experiencing an issue that may be specific to your account or project, involves billing or sensitive information, or just aren't sure what the best venue to ask your question is, please [open a ticket in our private support system](https://help.begin.com/hc/en-us/requests/new).
 
