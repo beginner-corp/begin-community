@@ -6,7 +6,7 @@
 
 If you have an issue that you have reason to believe impacts all Begin users, and not just your project, [please report it here](https://github.com/smallwins/begin-community/issues/new?labels=Begin%2C+Bug&template=begin-bug.md&title=%28Don%27t+forget+steps+to+reproduce%21%29)!
 
-If you are experiencing an issue that may be specific to your account or project, involves billing or sensitive information, or just aren't sure what the best venue to ask your question is, please [open a ticket in our private support system](https://help.begin.com/hc/en-us/requests/new).
+If you are experiencing an issue that may be specific to your account or project, involves billing or sensitive information, or just aren't sure what the best venue to ask your question is, please [open a ticket in our private support system](https://begin-help.zendesk.com/).
 
 ---
 
@@ -40,4 +40,4 @@ Help us make [our learn site](https://learn.begin.com) as well! As with docs, fi
 
 ### 🏥 Private support
 
-While this tracker is the right place to file public issues and feature requests anyone can monitor and vote up, if you are experiencing an issue that may be specific to your account or project, involves billing or sensitive information, or just aren't sure what the best venue to ask your question is, we humbly suggest [opening a ticket in our private support system](https://help.begin.com/hc/en-us/requests/new).
+While this tracker is the right place to file public issues and feature requests anyone can monitor and vote up, if you are experiencing an issue that may be specific to your account or project, involves billing or sensitive information, or just aren't sure what the best venue to ask your question is, we humbly suggest [opening a ticket in our private support system](https://begin-help.zendesk.com/.
